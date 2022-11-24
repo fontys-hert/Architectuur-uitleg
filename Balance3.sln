@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balance3.Core", "Balance3.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balance3.Tests", "Balance3.Tests\Balance3.Tests.csproj", "{5DA0AA3D-5017-4576-8852-23C0ED204E3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balance3.DataAccess", "Balance3.DataAccess\Balance3.DataAccess.csproj", "{B14F06E7-57A3-482B-BDF2-B493DE8B424E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5DA0AA3D-5017-4576-8852-23C0ED204E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DA0AA3D-5017-4576-8852-23C0ED204E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DA0AA3D-5017-4576-8852-23C0ED204E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14F06E7-57A3-482B-BDF2-B493DE8B424E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14F06E7-57A3-482B-BDF2-B493DE8B424E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14F06E7-57A3-482B-BDF2-B493DE8B424E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14F06E7-57A3-482B-BDF2-B493DE8B424E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

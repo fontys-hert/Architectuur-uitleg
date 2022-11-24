@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Balance3.Core\Balance3.Core.csproj" />
+    <ProjectReference Include="..\Balance3.DataAccess\Balance3.DataAccess.csproj" />
   </ItemGroup>
 
 </Project>

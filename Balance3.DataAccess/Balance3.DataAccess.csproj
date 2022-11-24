@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Balance3.Core\Balance3.Core.csproj" />
+  </ItemGroup>
+
 </Project>
